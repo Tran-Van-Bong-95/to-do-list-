@@ -1,4 +1,4 @@
-// Học cách phân tích rõ ràng trước rồi mới code
+
 
 // select elements
 const clear = document.querySelector('.clear')
